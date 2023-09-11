@@ -1,0 +1,2 @@
+mongoPwd=T67docQKa04I9j6Q
+mongoUsername=abdouslyn
